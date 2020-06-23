@@ -1,12 +1,8 @@
 # react-snackbar-g
+[![npm version](https://badge.fury.io/js/react-snackbar-g.svg)](https://badge.fury.io/js/react-snackbar-g)
+[![build status](https://img.shields.io/travis/axios/axios/master.svg?style=flat-square)](https://travis-ci.org/Shrroy/react-snackbar-g)
+[![Coverage Status](https://coveralls.io/repos/github/Shrroy/react-snackbar-g/badge.svg?branch=master)](https://coveralls.io/github/Shrroy/react-snackbar-g?branch=master)
 
-[![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
-[![build status](https://img.shields.io/travis/axios/axios/master.svg?style=flat-square)](https://travis-ci.org/axios/axios)
-[![code coverage](https://img.shields.io/coveralls/mzabriskie/axios.svg?style=flat-square)](https://coveralls.io/r/mzabriskie/axios)
-[![install size](https://packagephobia.now.sh/badge?p=axios)](https://packagephobia.now.sh/result?p=axios)
-[![npm downloads](https://img.shields.io/npm/dm/axios.svg?style=flat-square)](http://npm-stat.com/charts.html?package=axios)
-[![gitter chat](https://img.shields.io/gitter/room/mzabriskie/axios.svg?style=flat-square)](https://gitter.im/mzabriskie/axios)
-[![code helpers](https://www.codetriage.com/axios/axios/badges/users.svg)](https://www.codetriage.com/axios/axios)
 
 
 Provide brief messages about app processes. The component known as a Snackbar and toast.
