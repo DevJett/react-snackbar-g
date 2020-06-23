@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-snackbar-g/static/css/main.f8be8ce4.chunk.css",
+    "main.js": "/react-snackbar-g/static/js/main.ecb917a1.chunk.js",
+    "main.js.map": "/react-snackbar-g/static/js/main.ecb917a1.chunk.js.map",
+    "runtime-main.js": "/react-snackbar-g/static/js/runtime-main.15753016.js",
+    "runtime-main.js.map": "/react-snackbar-g/static/js/runtime-main.15753016.js.map",
+    "static/js/2.f52e3f9e.chunk.js": "/react-snackbar-g/static/js/2.f52e3f9e.chunk.js",
+    "static/js/2.f52e3f9e.chunk.js.map": "/react-snackbar-g/static/js/2.f52e3f9e.chunk.js.map",
+    "index.html": "/react-snackbar-g/index.html",
+    "precache-manifest.8983ff8c1297f22d5e76f73727550ed5.js": "/react-snackbar-g/precache-manifest.8983ff8c1297f22d5e76f73727550ed5.js",
+    "service-worker.js": "/react-snackbar-g/service-worker.js",
+    "static/css/main.f8be8ce4.chunk.css.map": "/react-snackbar-g/static/css/main.f8be8ce4.chunk.css.map",
+    "static/js/2.f52e3f9e.chunk.js.LICENSE.txt": "/react-snackbar-g/static/js/2.f52e3f9e.chunk.js.LICENSE.txt",
+    "static/media/autoHide.gif": "/react-snackbar-g/static/media/autoHide.b0aa7bc5.gif",
+    "static/media/dark.gif": "/react-snackbar-g/static/media/dark.e6fa4ce1.gif",
+    "static/media/white.gif": "/react-snackbar-g/static/media/white.257dd28e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15753016.js",
+    "static/js/2.f52e3f9e.chunk.js",
+    "static/css/main.f8be8ce4.chunk.css",
+    "static/js/main.ecb917a1.chunk.js"
+  ]
+}
